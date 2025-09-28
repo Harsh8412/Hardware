@@ -1,8 +1,9 @@
 # Hardware
-Computer What ??
+
+<>Computer What ??
 -> Acomputer is an electronic device that process data which convert it into information that is useful to people.
 
-Types of Computer : 
+<>Types of Computer : 
 1. Micro Computer :  
 -> Which are easily available to everywhere like laptops, smartphones, tablets, PDA, Desktop computers etc.
 
@@ -35,15 +36,31 @@ Types of Computer :
 
 ->They are used for Space Exporation, Earthquake Studies, Weather Forecasting and Nuclear Weapons Testing.
 
-Parts of Computer System : 
+<>Parts of Computer System : 
 1. Hardware(The computer) :
 -> Mechanical device that make up computer.
 
 -> Computer hardware consists of interconnected electronic devices that we use to control computer's operation input and output.
 
-Categorisation : 
-1.Peripherals
-2.Components
+<>Categorisation : 
+-> Peripherals + Components = Computer
+-> We assemble a computer using same brand peripherals and different brands peripherals.
+-> For components we have many choice.
+
+1.Peripherals : 
+->Items which are hard, visible and touchable and which are used by user.
+Ex : Mouse, Keyboard and  Monitor etc.
+
+<>Types of peripherals devices : 
+1.Input Device -> Used to give input in computer system.
+Like : Keyboard, Mouse, Trackball, Graphics tablet, Game Controllers, Touch Screen, Webcam, Microphone.
+2.Output Device -> Used to take output as a result of our input in our computer system.
+Like : Monitor, Printer, Audio Speaker, Headphones, Speaker, GPS< Sound Card, Video Card.
+
+2.Components : 
+-> Items which are hard, visible and touchable and they are placed under a cabinet.
+Ex : Hard Disk Drive, Microprocessor and RAM.
+MORE LIKES : Power Supply, MotherBoard, DVD Writer, Graphics Card
 
 2. Data (Information)
 
@@ -52,7 +69,7 @@ Categorisation :
 
 -> Program refer to any piece of software. 
 
-Types of Software : 
+<>Types of Software : 
 1. System Software -> Provide interface between user and hardware. 
 ex -> Operating software
 
@@ -70,6 +87,7 @@ ex : WinZip..
 
 3. Open Source Software -> Available to user with source code which means user can modified and add additional features to software.
 ex : Linux OS...
+
 
 4. Proprietary Software -> It is copyrighted and bear limit against use, distribution and modification imposed by its publisher, vendor or developer.
 ex : MS Office...
