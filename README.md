@@ -91,3 +91,28 @@ ex : Linux OS...
 
 4. Proprietary Software -> It is copyrighted and bear limit against use, distribution and modification imposed by its publisher, vendor or developer.
 ex : MS Office...
+
+* Know About CPU :-
+1. Full form of CPU -> Central Processing Unit
+
+* What is Microprocessor ?  
+1. It is known as the brain of the computer, and it's first priority to run machine.
+2. It is a chip based structure made uo of millions of transistors and logic gates.
+3. Receives incoming instructions as input from Memory to RAM.
+4. It is rsponsible for speed and capacity to execute tasks.
+5. These microprocessor are categorized into 2 different architecture 32 bit and 64 bit.
+
+* Segements of CPU :-
+1. ALU (Arithmetic Logical Unit) -> Performs all the mathmetical, arithmetic, algebraical and logical tasks like addition, subtraction, divide, multiplication and modulus. It also performs logical tasks like OR, AND and NOT.
+
+2. CU (Control Unit) -> Responsible for controlling the flow of Data b/w microprocessor and the external components of the computer using the CPU buses(way to transfer a data).
+
+* Types of Buses :-
+1. Data Bus -> Sends and receive data to memory.
+2. Control Bus -> Sends address of input to the memory or RAM.
+3. Contol Bus -> MAkes the communication b/w CPU and components.
+
+* Major Brand that manufacture microprocessor :-
+1. intel
+2. AMD
+3. NVIDIA
