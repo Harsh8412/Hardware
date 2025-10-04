@@ -116,3 +116,21 @@ ex : MS Office...
 1. intel
 2. AMD
 3. NVIDIA
+
+* Computer Memory : A memory where we can store data.
+-> Types of Memory :-
+  1. Primary Memory :-
+     -> RAM (Random Access Memory) :- There work is to load a software in the system.(to start or run a software)
+       Two types of RAM :-
+     1. SRAM (Static RAM) -> If we work on work and directly powe off the system so again when we open the system so we don't see the word file on which we have work again we have open                               the word for our work.(only in condition of circuit off not in restart condition)
+                             SRAM faster than DRAM.
+                             More power - efficient than DRAM and more expensive than DRAM.
+                             Used for running.
+     3. DRAM (Dynamic RAM) ->  Used for storing data.
+     -> ROM(non - volatile) :- 
+  3. Secondary Memory :-
+     -> HDD(Hard Disk Drive) : In which you can store your data.
+     -> SSD() : More fast than HDD
+     -> Compact Disk :- CD, DVD, VCD
+     -> Floppy Disk :- USed in old times.
+     -> Magnet Tap :- Listen music in old times.
