@@ -149,3 +149,16 @@ Two types of RAM :-
 -> Compact Disk :- CD, DVD, VCD
 -> Floppy Disk :- USed in old times.
 -> Magnet Tap :- Listen music in old times.
+
+* MotherBoard :-
+1. Also known as printed circuit Board.
+2. It is responsible for contact of flow of data and instruction.
+3. Two types of Motherboard :-     1. Plane               2. Mark
+
+* Hard Disk :-
+1. A HDD is a data storage device used for storing and retrieving digital information using rapidly rotating disk coated with magnetic material.
+
+*SSD :-
+1. Solid State Drive.
+2. it doesn't have any moving mechanical components.
+3. it is fast from HDD.
